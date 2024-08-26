@@ -13,3 +13,14 @@ before the opponent does. This implementation is a simple version of the game pl
 HTML: For structuring the game layout
 CSS: For styling the game board and elements
 JavaScript: For implementing game logic and interactions
+
+**Usage**
+. Open the index.html file in your web browser.
+. The game board will appear with empty cells.
+. Click on a cell to make a move.
+. Player X and Player O will alternate turns automatically.
+. The game will display a message when there is a winner or a draw.
+
+**Acknowledgments**
+Thanks to MDN Web Docs for providing helpful documentation and tutorials.
+Inspired by the classic Rock Paper Scissors game.
